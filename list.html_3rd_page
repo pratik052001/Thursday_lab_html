@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>veg.html</title>
+</head>
+<body background="list.jpg">
+<font type="arial" color="orange" size="12">
+<h1><marquee direction="right">Cool cafe</marquee></h1>
+<h1 align ="center">What Type you want to order</h1>
+<center>
+<list>
+<h2>
+<li align="center"><a href="veg.html"><font color="red">Veg</font></a></li>
+<li align="center"><a href="nonveg.html"><font color="red">Non veg</font></a></li>
+<li align="center"><a href="Deset.html"><font color="red">Desert</font></a></li>
+</h2>
+</list>
+</center>
+</font>
+</body>
+<html>
