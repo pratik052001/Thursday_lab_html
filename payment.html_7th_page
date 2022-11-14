@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><title>payment.html</title>
+</head>
+<body bgcolor="red+green+orange">
+<font size="4" type="arial" color="orange">
+<h1><marquee direction="right">Cool cafe</marquee></h1>
+Name:
+<input type="text" name="Name" size="70" maxLength="30" placeholder="name"><br><br>
+Gender:
+<input type="radio" name="Gender" size="50" maxLength="70" value="Male">Male
+&nbsp &nbsp<input type="radio" name="Gender" size="70" maxLength="30" value="Female">Female
+<br><br>
+Select Payment Mode:
+<br><br>
+<input type="radio" name="payment" height="50" width="150" maxLength="30" value="Card">Card
+<br><br>
+Card Valid Date :
+<input type="date" name="Date" size="50" value="Card"><br><br>
+cvv:
+<input type="password" name="password" size="50" maxlength="3"><br><br>
+<input type="radio" name="payment" size="70" maxLength="30" value="UPI id">UPI id<br><br>
+UPI id:-********8237<br><br>
+<a href="payment2.html">
+<input type="Button" name="Submit" size="150"value="Submit"></a>
+<a href="welcome.html">
+<input type="Button" name="Reset" size="150"value="Reset"></a>
+</font>
+</body>
+</html>
