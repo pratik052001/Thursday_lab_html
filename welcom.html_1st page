@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>welcome.html</title>
+</head>
+<body background="welcomepage.jpg">
+<font type="arial" size="12" color="red">
+<h1 align ="center">Welcome To Cool Cafe</h1>
+<center><font size="12" type="arial" color="red">Daily 24 Hours online Serivice</font></center>
+<h2 align ="center">Near Orchid Hotel Balewadi<br><br>
+link :
+<a href="map.html">Location here</a>
+</h2>
+<h3 align ="center"> contact :-874563836</h3>
+<h4 align ="center">Lets Order Something
+<a href="list.html">click here</a>
+</h4>
+</font>
+</body>
+</html>
