@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head><title>Deset.html</title>
+</head>
+<body background="gulabjamun.jpg">
+<center>
+<font type="arial" size="12" color="Yellow">
+<marquee direction="right"><h1 ALIGN ="center">cool cafe</h1>
+<h2 align="center">Please select checkboxbox of items :</marquee></h2>
+<table border="2" height="50%" width="50%">
+<tr>
+<th>Menu</th>
+<th>Price</th>
+</tr>
+<tr>
+<td align="center"><input type="checkbox" name="chk9" value="Venilla IceCream">Venilla IceCream </td>
+<td align="center">200 </td>
+</tr>
+<tr>
+<td align="center"><input type="checkbox" name="chk10" value="Chocalate IceCraem">Chocalate IceCream</td>
+<td align="center">150 </td>
+</tr>
+<tr>
+<td align="center"><input type="checkbox" name="chk11" value="GullabJamun">GulabJamun</td>
+<td align="center">150 </td>
+</tr>
+<tr>
+<td align="center"><input type="checkbox" name="chk8" value="Chocalate Cake">Chocalate Cake</td>
+<td align="center">150 </td>
+</tr>
+</table>
+if you want order Veg:<br><br>
+<a href="veg.html">click here</a><br><br>
+if you want order Nonveg:<br><br>
+<a href="nonveg.html">click here</a><br><br>
+make sure your order is confirm :<br><br>
+<a href="payment.html">
+<input Type="Button" name="btn" value="Confirm"></a>
+</font>
+</center>
+</html>
